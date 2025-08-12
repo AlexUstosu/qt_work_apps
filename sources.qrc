@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>energy_24.png</file>
+        <file>icon.png</file>
+        <file>temp_2.png</file>
+    </qresource>
+</RCC>
